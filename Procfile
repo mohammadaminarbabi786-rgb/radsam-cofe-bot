@@ -1,2 +1,1 @@
-python-telegram-bot
-Flask
+web: python bot.py
